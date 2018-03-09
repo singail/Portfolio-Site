@@ -126,6 +126,22 @@ svg {
 
 /*Media Queries for responsive design*/
 
+/*Small mobile*/
+
+@media screen and (max-width: 320px) {
+    h1 {
+        font-size: 1.7em;
+    }
+    
+    footer p {
+        font-size: 12px;
+    }
+    
+    footer {
+        padding: 20px;
+    }
+}
+
 /*Tablets*/
 
 @media screen and (min-width: 768px) {
