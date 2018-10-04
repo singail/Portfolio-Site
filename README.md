@@ -6,6 +6,5 @@ This project is a part of the Front-End Web Developer Nanodegree Program of Udac
 
 ## How to run the page
 
-Follow this link to see the live version of the project: [Portfolio site] (https://singail.github.io/Portfolio-Site/)
-
+Follow this link to see the live version of the project: [Portfolio site](https://singail.github.io/Portfolio-Site/)
 
